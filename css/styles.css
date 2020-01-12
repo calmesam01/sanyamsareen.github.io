@@ -81,7 +81,7 @@ header li {
 
 header a {
 	display: block;
-	color: #3498db;
+	color: #363853;
 	padding: 10px
 }
 
@@ -93,7 +93,7 @@ header a:hover {
 }
 
 header a:focus {
-	color: #3498db;
+	color: #363853;
 	text-decoration: none
 }
 
@@ -116,7 +116,7 @@ header.sticky {
 	position: fixed;
 	right: 15px;
 	top: 10px;
-	color: #3498db;
+	color: #363853;
 	font-size: 1.5em;
 	z-index: 20;
 	padding: 0 7px;
@@ -133,7 +133,7 @@ header.sticky {
 	padding-right: 15px;
 	padding-top: 10px;
 	cursor: pointer;
-	color: #3498db
+	color: #363853
 }
 
 #mobile-menu-close span {
@@ -199,7 +199,7 @@ footer {
 }
 
 .social a:hover {
-	color: #3498db
+	color: #363853
 }
 
 .btn-rounded-white {
@@ -212,7 +212,7 @@ footer {
 }
 
 .btn-rounded-white:hover {
-	color: #3498db;
+	color: #363853;
 	background: #fff;
 	text-decoration: none
 }
@@ -242,7 +242,7 @@ footer {
 	left: 0;
 	right: 0;
 	margin: 0 auto;
-	background: #3498db
+	background: #363853
 }
 
 .background-alt {
@@ -381,7 +381,7 @@ footer {
 	right: auto;
 	height: 100%;
 	width: 3px;
-	background: #3498db;
+	background: #363853;
 	z-index: 0
 }
 
@@ -390,8 +390,8 @@ footer {
 	content: '';
 	width: 3px;
 	height: 40px;
-	background: #3498db;
-	background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+	background: #363853;
+	background: linear-gradient(to bottom, #363853, rgba(52, 152, 219, 0));
 	top: 100%;
 	left: 303px
 }
@@ -438,7 +438,7 @@ footer {
 	color: #fff;
 	width: 50px;
 	height: 50px;
-	background: #3498db;
+	background: #363853;
 	border-radius: 50%;
 	float: left;
 	z-index: 99;
